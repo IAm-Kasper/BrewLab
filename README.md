@@ -1,4 +1,4 @@
-# KPlusPlus
+# ChargePlus
 
 
 ## Information Coming Soon!
